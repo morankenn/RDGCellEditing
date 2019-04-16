@@ -1,2 +1,0 @@
-# RDGCellEditing
-Created with CodeSandbox
